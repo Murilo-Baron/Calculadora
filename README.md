@@ -11,7 +11,7 @@ Lição realizada para a diciplina de programação para a internet. <br/>
 <br>
 
 <p align="center">
-  <img alt="Ethereum" src="./img/print.PNG" width="100%">
+  <img alt="calculadora" src="./img/print.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -28,4 +28,4 @@ Objetivo do projeto foi fazer uma calculadora utilizando JS.
 
 ---
 
-Feito com ♥ por Murilo Baron Pereira :wave:
+Feito com ♥ por Murilo Baron Pereira 👋
